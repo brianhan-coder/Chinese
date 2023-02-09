@@ -1,5 +1,5 @@
 # Ling Han 韩凌
-## [Home](https://www.linghan.me/)  ~  [CV](https://www.linghan.me/CV)  ~   [Publications](https://www.linghan.me/publications)  ~  [Research](https://www.linghan.me/research)  ~   [Contact Me](https://www.linghan.me/CM)  ~  [Chinese Version 中文版](https://www.linghan.me/Chinese)
+## [Home](https://www.linghan.me/)  ~  [CV](https://www.linghan.me/CV)  ~   [Publications](https://www.linghan.me/publications)  ~  [Research](https://www.linghan.me/research)  ~   [Contact Me](https://www.linghan.me/CM)  ~  [English Version](https://www.linghan.me/)
 ![Image text](https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-4584-1665512254.jpg?itok=IApMI3ZT)
 
 ## Bio
@@ -21,3 +21,5 @@
 >
 >> `工学学士` (2015年9月至2019年6月) <br>
 >> 信息安全（网络空间安全）专业
+
+我的网站除主页外不提供中文翻译，其他信息请浏览英文版网站。
