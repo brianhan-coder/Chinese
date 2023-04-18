@@ -5,6 +5,7 @@
 ## 个人介绍
 我是韩凌，[耶鲁大学计算机科学系](https://cpsc.yale.edu)一年级博士生。我加入了[耶鲁Graph and Geometric实验室](https://www.cs.yale.edu/homes/ying-rex/)，在[Rex(Zhitao) Ying](https://cpsc.yale.edu/people/zhitao-ying)博士的指导下作为轮转实习生从事研究工作。我加入了[Gerstein实验室](http://www.gersteinlab.org)在[Mark Gerstein教授](https://cpsc.yale.edu/people/mark-gerstein)的指导下从事研究工作。我在武汉大学获得了计算机科学硕士学位，导师是[李宗鹏教授](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)（清华大学），共同导师是[黄浩教授](http://cs.whu.edu.cn/info/1019/2467.htm#)。我在武汉大学获得学士学位，导师是[陈晶教授](https://cse.whu.edu.cn/info/1272/3389.htm)。我的研究兴趣包括可信深度学习、机器学习、生物信息学、区块链和信息安全。我正在研究的项目包括机器学习模型的数据遗忘研究，用可解释性机器学习进行蛋白质界面和匹配预测，用图神经网络进行蛋白质结构和特性研究，以及以太坊协议安全。如果你对其中任何一个主题感兴趣，欢迎给我发电子邮件。我随时愿意与我的研究人员同伴就有趣的研究和想法安排一次会议。<br>
 *我将作为Teaching Fellow (TF) 与Rex一起教授耶鲁大学研究生课程CPSC583/483 Deep Learning on Graph-Structured Data。欢迎耶鲁大学研究生和耶鲁本科学院学生在2023fall报名参加这门课程! 该课程的详情请参考[耶鲁大学课程搜索系统](https://courses.yale.edu/?srcdb=202303&col=GS&dept=CPSC)。<br>
+
 有关联系信息，请参考 **[Contact Me](https://www.linghan.me/CM)** 页面。
 
 
