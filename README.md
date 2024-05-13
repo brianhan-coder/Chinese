@@ -3,7 +3,7 @@
 ![Image text](https://media.licdn.com/dms/image/D4E03AQEfx63xPlLxXQ/profile-displayphoto-shrink_100_100/0/1707767831084?e=1720656000&v=beta&t=mrn24LJqFSGUaguZ6uVTlMfAaDWsB2LsS57-bNayKG8)
 
 ## 个人介绍
-我是韩凌，[耶鲁大学计算机科学系](https://cpsc.yale.edu)二年级博士生。我在武汉大学获得了计算机科学硕士学位，导师是[李宗鹏教授](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)（清华大学），共同导师是[黄浩教授](http://cs.whu.edu.cn/info/1019/2467.htm#)。我在武汉大学获得学士学位，导师是[陈晶教授](https://cse.whu.edu.cn/info/1272/3389.htm)。我的研究兴趣包括机器学习、医疗信息学和隐私保护。我现在在耶鲁大学全球智能健康技术实验室[LiGHT](https://www.yale-light.org)(Laboratory of Intelligent Global Health Technologies)在[Annie](https://medicine.yale.edu/profile/mary-anne-hartley/)的指导下从事研究工作，同时与耶鲁大学多模态成像、神经信息学与数据科学实验室[MINDS](https://medicine.yale.edu/lab/scheinost/) (Multi-modal Imaging, Neuroinformatics, & Data Science Laboratory)保持紧密的合作，在[Dustin](https://medicine.yale.edu/profile/dustin-scheinost/)的指导下进行研究。如果你对其中任何一个主题感兴趣，欢迎给我发电子邮件。我随时愿意与我的研究人员同伴就有趣的研究和想法安排一次会议。<br>
+我是韩凌，[耶鲁大学计算机科学系](https://cpsc.yale.edu)二年级博士生。我在武汉大学获得了计算机科学硕士学位，导师是[李宗鹏教授](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=en)（清华大学），共同导师是[黄浩教授](http://cs.whu.edu.cn/info/1019/2467.htm#)。我在武汉大学获得学士学位，导师是[陈晶教授](https://cse.whu.edu.cn/info/1272/3389.htm)。我的研究兴趣包括机器学习、医疗信息学和隐私保护。如果你对其中任何一个主题感兴趣，欢迎给我发电子邮件。我随时愿意与我的研究人员同伴就有趣的研究和想法安排一次会议。<br>
 
 有关联系信息，请参考 **[Contact Me](https://www.linghan.me/CM)** 页面。
 
