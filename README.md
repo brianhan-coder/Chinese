@@ -1,5 +1,5 @@
 # Ling Han 韩凌
-## Home  |  [CV](https://b.linghan.me/CV)  |   [Publications](https://scholar.google.com/citations?user=SLMRZTUAAAAJ&hl=zh-CN)  |  [Research](https://b.linghan.me/research)  |   [Contact Me](https://b.linghan.me/CM)  |  [English Version](https://b.linghan.me/)
+## Home  |  [CV](https://b.linghan.me/CV)  |   [Publications](https://scholar.google.com/citations?user=SLMRZTUAAAAJ&hl=zh-CN)  |  [Research](https://b.linghan.me/research)  |   [Contact Me](https://b.linghan.me/CM)  |  [English Version](https://b.linghan.me/) | [*New Version](https://www.linghan.me/)
 ![Image text](https://media.licdn.com/dms/image/D4E03AQEfx63xPlLxXQ/profile-displayphoto-shrink_100_100/0/1707767831084?e=1720656000&v=beta&t=mrn24LJqFSGUaguZ6uVTlMfAaDWsB2LsS57-bNayKG8)
 
 ## 个人介绍
